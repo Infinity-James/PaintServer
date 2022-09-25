@@ -1,0 +1,4 @@
+<footer class="container">
+	<p>Copyright &copy; 2022 Paint the Town</p>
+	<p style="text-align: center;"><img src="/logo.png" style="width: 36px;" /></p>
+</footer>
